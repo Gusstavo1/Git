@@ -1,7 +1,6 @@
 package com.gcr.git;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 
