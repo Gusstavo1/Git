@@ -14,7 +14,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d(TAG,"Rama2");
-        Log.d(TAG,"Segunda linea :v");
+        Log.d(TAG,"Rama3");
+        String array[] = new String[10];
+        array[0] = "Gustavo";
+        array[1] = "Calderon";
+
+        for(String pos:array){
+            Log.d(TAG,"pos "+pos);
+        }
+
     }
 }
