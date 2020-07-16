@@ -13,15 +13,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        Log.d(TAG,"Rama3");
-        String array[] = new String[10];
-        array[0] = "Gustavo";
-        array[1] = "Calderon";
-
-        for(String pos:array){
-            Log.d(TAG,"pos "+pos);
-        }
-
     }
 }
