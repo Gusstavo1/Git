@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-468727343/Git.iml" filepath="$PROJECT_DIR$/.idea/modules/-468727343/Git.iml" group="Git" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Git-app.iml" filepath="$PROJECT_DIR$/.idea/modules/Git-app.iml" group="Git/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232824838/Git1.1-Git.iml" filepath="$PROJECT_DIR$/.idea/modules/1232824838/Git1.1-Git.iml" group="Git" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Git/app" />
     </modules>
   </component>
